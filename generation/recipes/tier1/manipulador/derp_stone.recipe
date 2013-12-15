@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "derptool_bp", "count" : 1 },
+	{ "item" : "money", "count" : 100 },
+    { "item" : "cobblestonematerial", "count" : 40 },	
+    { "item" : "beamaxe", "count" : 1 }
+  ],
+  "output" : { "item" : "derp_stone", "count" : 1 },
+  "groups" : [ "anvil", "tools", "all" ]
+}

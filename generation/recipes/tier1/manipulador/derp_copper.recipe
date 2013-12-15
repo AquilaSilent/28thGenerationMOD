@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "derptool_bp", "count" : 1 },
+    { "item" : "money", "count" : 50 },
+    { "item" : "copperbar", "count" : 10 },	
+    { "item" : "derp_stone", "count" : 1 }
+  ],
+  "output" : { "item" : "derp_copper", "count" : 1 },
+  "groups" : [ "anvil", "tools", "all" ]
+}

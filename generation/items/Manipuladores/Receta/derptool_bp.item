@@ -1,0 +1,18 @@
+{
+  "itemName" : "derptool_bp",
+  "rarity" : "Rare",
+  "inventoryIcon" : "blueprint.png",
+  "description" : "¡Vuelve tu manipulador de materia mas fuerte!",
+  "shortdescription" : "Instrucciones del manipulador",
+  
+  "learnBlueprintsOnPickup" : [
+	"derp_stone",
+    "derp_copper",
+	"derp_iron",
+	"derp_gold",
+	"derp_silver",
+	"derp_steel",
+	"derp_plat",
+	"derp_diamond"
+    ]
+}
